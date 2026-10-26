@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EjercicioLayouts</string>
+    <string name="desc_persona1">Una persona</string>
+    <string name="desc_persona2">Una persona maja</string>
+    <string name="desc_persona3">Una persona buena</string>
+    <string name="desc_animal1">Un animal muy chulo</string>
+    <string name="desc_animal2">Un animal muy guapo</string>
+    <string name="desc_persona4">Una persona alegre</string>
+    <string name="desc_persona5">Una persona agradable</string>
+
+    <string name="fecha_ejemplo">03-06-21</string>
+    <string name="titulo_ejemplo">Lorem.</string>
+    <string name="texto_ejemplo">Aut harum, voluptatibus!</string>
+</resources>
